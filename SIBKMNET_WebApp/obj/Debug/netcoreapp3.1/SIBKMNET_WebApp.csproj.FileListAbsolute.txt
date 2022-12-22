@@ -154,3 +154,5 @@ C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1
 C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Province\Create.cshtml.g.cs
 C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Province\Index.cshtml.g.cs
+C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\HP\source\repos\SIBKMNET_WebApp\SIBKMNET_WebApp\obj\Debug\netcoreapp3.1\Razor\Views\ErrorPage\Unauthorized.cshtml.g.cs
